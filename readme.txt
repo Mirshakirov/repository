@@ -1,1 +1,1 @@
-Hello it's Mirsaid
+Hello it's Mirsaid and i'm learning java.
